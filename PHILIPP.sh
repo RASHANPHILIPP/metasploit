@@ -1,4 +1,4 @@
-command pkg install toilet && pkg install ruby && gem install lolcat
+command pkg install wget && pkg install toilet && pkg install ruby && gem install lolcat
 
 toilet -f future CODED BY RASHANPHILIPP|lolcat
 sleep 2
